@@ -1,6 +1,5 @@
 
-my:
-  greeting: hello kartik ivaturi this is local git repo on cloug-config
+my.greeting: hello kartik ivaturi this is local git repo on cloug-config
   list: one , two ,three
 test:
   name: kartik
